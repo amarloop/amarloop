@@ -51,6 +51,18 @@ I'm a cybersecurity learner focused on **ethical hacking** and **Python programm
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amarloop&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=amarloop&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 
 ## 📫 Connect With Me
 
