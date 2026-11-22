@@ -50,23 +50,7 @@ I'm a cybersecurity learner focused on **ethical hacking** and **Python programm
 - 🛡️ Defensive security and best practices
 
 ---
-## 🎧 My Music
 
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cyisdpcl32brp7reqkuvmlyxre&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Songs I listen to" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amarloop&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=amarloop&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
